@@ -40,11 +40,10 @@ Downloads/
       video1.mp4
 
    Documents/
-      report.pdf
-
+      report.pdf   
 ## 📤 Output
 Files are organized into folders:
-
+---
 ##Screenshot(Task_Automation)
 <img width="1366" height="768" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/a8a93c68-5f7e-4755-a17a-9f8b3fa01c55" />
 
@@ -56,4 +55,6 @@ Files are organized into folders:
 3. Run the script:
 
 ```
-python move_images.py
+##Conclusion
+The Task Automation project highlights practical implementation of Python for real-world problem solving. By automating file sorting, it enhances productivity and demonstrates core concepts of file handling, making it a valuable beginner-level automation project.
+---
