@@ -1,0 +1,5 @@
+pyautogui
+pandas
+openpyxl
+schedule
+requests
